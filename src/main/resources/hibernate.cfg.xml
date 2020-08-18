@@ -5,11 +5,20 @@
 <hibernate-configuration>
     <session-factory>
 
-        <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
-        <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
-        <property name="hibernate.connection.url">jdbc:oracle:thin:@192.90.20.218:11521:XE</property>
-        <property name="hibernate.connection.username">SYSTEM</property>
-        <property name="hibernate.connection.password">1234</property>
+<!--        <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>-->
+<!--        <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>-->
+<!--        <property name="hibernate.connection.url">jdbc:oracle:thin:@192.90.20.85:11521:XE</property>-->
+<!--        <property name="hibernate.connection.username">SYSTEM</property>-->
+<!--        <property name="hibernate.connection.password">1234</property>-->
+
+        <!-- JDBC Database connection settings -->
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://192.90.20.85:3306/hotelbooking?useSSL=false</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">1234</property>
+        <property name="connection.pool_size">1</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
+
         <property name="hibernate.show_sql">true</property>
         <property name="hibernate.connection.release_mode">auto</property>
         <property name="current_session_context_class">thread</property>

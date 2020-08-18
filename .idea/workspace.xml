@@ -1,41 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9391f33-e8ac-4a8c-8633-44bc654d3904" name="Default Changelist" comment="" />
+    <list default="true" id="a9391f33-e8ac-4a8c-8633-44bc654d3904" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/hibernatecore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/cache/LocalCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/cache/RedisCacheConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cert.p12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/user.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/userRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYS.rUIBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYSTEM.L2avkg.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/controllers/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/Role.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/Role.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Spring-Boot-Hibernate.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/Role.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/Role.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/User.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/MainApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/controllers/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/SchemaGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/SchemaGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@192.90.20.218" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@192.90.20.218" type="feb32156:DbDataSourceImpl" />
-        <item name="SYSTEM: schema" type="3abd1b6a:OraImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@192.90.20.218" type="feb32156:DbDataSourceImpl" />
-        <item name="SYSTEM: schema" type="3abd1b6a:OraImplModel$Schema" />
-        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-    </expand>
-    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,32 +86,44 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1ft7j4UnYkQNYlMxlPf4r0pk9FF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb&#10;oracle" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,28 +133,21 @@
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java\com\smartosc\training\entities" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smartosc.training.config" />
+      <recent name="com.smartosc.training.endpoints" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/smartosc/training" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\resources" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java\com\smartosc\training\entities" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="SchemaGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smartosc.training.utils.SchemaGenerator" />
-      <module name="Spring-Boot-Hibernate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.smartosc.training.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.MainApplication (1)">
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.smartosc.training.utils.TestMain" />
-      <module name="Spring-Boot-Hibernate" />
+      <module name="hibernatecore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.smartosc.training.utils.*" />
@@ -111,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Spring-Boot-Hibernate" />
+    <configuration name="MainApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hibernatecore" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.smartosc.training.*" />
@@ -126,12 +173,12 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MainApplication (1)" />
         <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.SchemaGenerator" />
-        <item itemvalue="Spring Boot.MainApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -144,65 +191,125 @@
       <updated>1597025666091</updated>
       <workItem from="1597025667626" duration="22036000" />
       <workItem from="1597121182462" duration="1693000" />
+      <workItem from="1597293186687" duration="4347000" />
+      <workItem from="1597314256718" duration="41000" />
+      <workItem from="1597374675390" duration="3247000" />
+      <workItem from="1597378501556" duration="16042000" />
+      <workItem from="1597631054897" duration="12873000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597052584175">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="572" y="325" width="1046" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597634444373">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597052584175" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1597041570210">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="572" y="325" width="1046" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1597634444373" />
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597401760751">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597041570210" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1597057942718">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1597401760751" />
+    <state width="1825" height="374" key="GridCell.Tab.0.bottom" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1597057942718">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.0.center" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1597057942717">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.0.left" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942717" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1597057942718">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.0.right" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1876" height="277" key="GridCell.Tab.1.bottom" timestamp="1597051141470">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.1.bottom" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1876" height="277" key="GridCell.Tab.1.center" timestamp="1597051141470">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.1.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.1.center" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1876" height="277" key="GridCell.Tab.1.left" timestamp="1597051141470">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.1.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.1.left" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1876" height="277" key="GridCell.Tab.1.right" timestamp="1597051141470">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.1.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="374" key="GridCell.Tab.1.right" timestamp="1597661699227">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state x="440" y="96" key="SettingsEditor" timestamp="1597041602631">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1825" height="374" key="GridCell.Tab.1.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
+    <state width="1825" height="344" key="GridCell.Tab.2.bottom" timestamp="1597636282879">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1825" height="344" key="GridCell.Tab.2.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
+    <state width="1825" height="344" key="GridCell.Tab.2.center" timestamp="1597636282879">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1825" height="344" key="GridCell.Tab.2.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
+    <state width="1825" height="344" key="GridCell.Tab.2.left" timestamp="1597636282879">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1825" height="344" key="GridCell.Tab.2.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
+    <state width="1825" height="344" key="GridCell.Tab.2.right" timestamp="1597636282879">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="1825" height="344" key="GridCell.Tab.2.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
+    <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597634586695">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state width="263" height="500" key="HiddenNamespacesPopup/49.27.1871.1053@49.27.1871.1053" timestamp="1597634586695" />
+    <state x="478" y="124" width="1024" height="845" key="SettingsEditor" timestamp="1597398348607">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="440" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597041602631" />
-    <state x="841" y="392" width="319" height="255" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597052688049">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="478" y="124" width="1024" height="845" key="SettingsEditor/49.27.1871.1053@49.27.1871.1053" timestamp="1597398348607" />
+    <state x="869" y="424" width="377" height="259" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597645517157">
+      <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="841" y="392" width="319" height="255" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1597052688049" />
+    <state x="869" y="424" width="377" height="259" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/49.27.1871.1053@49.27.1871.1053" timestamp="1597645517157" />
+    <state x="836" y="258" width="287" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1597639922764">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="836" y="258" width="287" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1597639922764" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597121221660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597121221660" />
+    <state x="709" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597308683952">
+      <screen x="49" y="27" width="1871" height="1053" />
+    </state>
+    <state x="709" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1597308683952" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -214,8 +321,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java</url>
-          <line>26</line>
+          <line>28</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

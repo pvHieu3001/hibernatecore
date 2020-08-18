@@ -1,7 +1,9 @@
 package com.smartosc.training.dao;
 
 import com.smartosc.training.entities.User;
+import lombok.Builder;
 import org.hibernate.Session;
+import org.springframework.stereotype.Component;
 
 /**
  * Spring-Boot-Hibernate
@@ -14,5 +16,9 @@ import org.hibernate.Session;
 public class UserDAO extends AbstractCrudDao<User>{
     public UserDAO(Session session) {
         super(session, User.class, "User");
+    }
+
+    public static UserDAO build(Session session){
+        return new UserDAO(session);
     }
 }
