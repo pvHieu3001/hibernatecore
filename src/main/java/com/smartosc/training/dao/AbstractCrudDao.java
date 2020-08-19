@@ -2,6 +2,7 @@ package com.smartosc.training.dao;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
 
 import javax.persistence.criteria.CriteriaQuery;
 import java.util.List;
@@ -29,13 +30,15 @@ public abstract  class AbstractCrudDao<T> {
         return entity;
     }
     public void delete(T entity) {
+        Transaction transaction = session.beginTransaction();
         session.delete(entity);
+        transaction.commit();
     }
 
-    public T find(long id) {
+    public T findById(long id) {
         return session.find(entityClass, id);
     }
-    public List<T> list() {
+    public List<T> findAll() {
         CriteriaQuery<T> query = session.getCriteriaBuilder().createQuery(entityClass);
         query.select(query.from(entityClass));
         return session.createQuery(query).getResultList();

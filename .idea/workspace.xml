@@ -23,56 +23,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9391f33-e8ac-4a8c-8633-44bc654d3904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/hibernatecore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/cache/LocalCacheConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/cache/RedisCacheConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/cert.p12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/userRequest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYS.rUIBAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/80d584b9-31ce-4309-b448-5dc369ad18d4/storage_v2/_src_/schema/SYSTEM.L2avkg.zip" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/AddUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/AddUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/DeleteUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/DeleteUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindAllUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindAllUserResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindUserByIdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindUserByIdResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ServiceStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UpdateUserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UpdateUserResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/controllers/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/Role.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/Role.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com.smartosc.training.entities/User.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Spring-Boot-Hibernate.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/Role.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/Role.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/User.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com.smartosc.training.entities/User.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/MainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/controllers/Home.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/user.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xsds/user.xsd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Saitama-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Saitama-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Saitama-1.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/Saitama-1.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JAXB/episode_xjc.xjb" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ObjectFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/UserRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/UserResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/config/XmlConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/config/XmlConfiguration.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/Role.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/entities/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/endpoints/UserEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/endpoints/UserEndPoint.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/SchemaGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/SchemaGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/user.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +108,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -126,21 +118,21 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\resources\com.smartosc.training.entities" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/smartosc/training" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\resources" />
-      <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java\com\smartosc\training\entities" />
-      <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.smartosc.training.config" />
       <recent name="com.smartosc.training.endpoints" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/smartosc/training" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/xsds" />
+      <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\resources\com.smartosc.training.entities" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\resources" />
+      <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src" />
       <recent name="C:\Users\PC\Documents\Github\Spring-Boot-Hibernate\src\main\java\com\smartosc\training\entities" />
     </key>
   </component>
@@ -154,6 +146,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,6 +199,9 @@
       <workItem from="1597374675390" duration="3247000" />
       <workItem from="1597378501556" duration="16042000" />
       <workItem from="1597631054897" duration="12873000" />
+      <workItem from="1597719816580" duration="2363000" />
+      <workItem from="1597729712652" duration="4367000" />
+      <workItem from="1597804424363" duration="17051000" />
     </task>
     <servers />
   </component>
@@ -223,76 +229,76 @@
     </state>
     <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597052584175" />
     <state x="572" y="325" width="1046" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1597634444373" />
-    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597401760751">
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597732793536">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597041570210" />
-    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1597401760751" />
-    <state width="1825" height="374" key="GridCell.Tab.0.bottom" timestamp="1597661699227">
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1597732793536" />
+    <state width="1825" height="386" key="GridCell.Tab.0.bottom" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1825" height="374" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.0.center" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.0.center" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1825" height="374" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.0.left" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.0.left" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942717" />
-    <state width="1825" height="374" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.0.right" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.0.right" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
-    <state width="1825" height="374" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.1.bottom" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.1.bottom" timestamp="1597829508443">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1825" height="374" key="GridCell.Tab.1.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.1.center" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.1.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508443" />
+    <state width="1825" height="386" key="GridCell.Tab.1.center" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1825" height="374" key="GridCell.Tab.1.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.1.left" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.1.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.1.left" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1825" height="374" key="GridCell.Tab.1.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="374" key="GridCell.Tab.1.right" timestamp="1597661699227">
+    <state width="1825" height="386" key="GridCell.Tab.1.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="386" key="GridCell.Tab.1.right" timestamp="1597829508442">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
-    <state width="1825" height="374" key="GridCell.Tab.1.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597661699227" />
-    <state width="1825" height="344" key="GridCell.Tab.2.bottom" timestamp="1597636282879">
+    <state width="1825" height="386" key="GridCell.Tab.1.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
+    <state width="1825" height="344" key="GridCell.Tab.2.bottom" timestamp="1597829480432">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="1825" height="344" key="GridCell.Tab.2.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
-    <state width="1825" height="344" key="GridCell.Tab.2.center" timestamp="1597636282879">
+    <state width="1825" height="344" key="GridCell.Tab.2.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597829480432" />
+    <state width="1825" height="344" key="GridCell.Tab.2.center" timestamp="1597829480432">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="1825" height="344" key="GridCell.Tab.2.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
-    <state width="1825" height="344" key="GridCell.Tab.2.left" timestamp="1597636282879">
+    <state width="1825" height="344" key="GridCell.Tab.2.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597829480432" />
+    <state width="1825" height="344" key="GridCell.Tab.2.left" timestamp="1597829480432">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="1825" height="344" key="GridCell.Tab.2.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
-    <state width="1825" height="344" key="GridCell.Tab.2.right" timestamp="1597636282879">
+    <state width="1825" height="344" key="GridCell.Tab.2.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597829480432" />
+    <state width="1825" height="344" key="GridCell.Tab.2.right" timestamp="1597829480432">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
-    <state width="1825" height="344" key="GridCell.Tab.2.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597636282879" />
+    <state width="1825" height="344" key="GridCell.Tab.2.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597829480432" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1597634586695">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/49.27.1871.1053@49.27.1871.1053" timestamp="1597634586695" />
-    <state x="478" y="124" width="1024" height="845" key="SettingsEditor" timestamp="1597398348607">
+    <state x="478" y="124" width="1024" height="845" key="SettingsEditor" timestamp="1597732805121">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="440" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597041602631" />
-    <state x="478" y="124" width="1024" height="845" key="SettingsEditor/49.27.1871.1053@49.27.1871.1053" timestamp="1597398348607" />
+    <state x="478" y="124" width="1024" height="845" key="SettingsEditor/49.27.1871.1053@49.27.1871.1053" timestamp="1597732805121" />
     <state x="869" y="424" width="377" height="259" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597645517157">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
@@ -316,28 +322,48 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java</url>
-          <line>17</line>
+          <line>12</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java</url>
-          <line>28</line>
+          <line>23</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java</url>
-          <line>26</line>
+          <line>21</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

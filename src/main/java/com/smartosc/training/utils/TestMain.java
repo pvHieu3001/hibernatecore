@@ -1,10 +1,5 @@
 package com.smartosc.training.utils;
 
-import com.smartosc.training.dao.UserDAO;
-import com.smartosc.training.entities.User;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
-
 /**
  * Spring-Boot-Hibernate
  *
@@ -24,8 +19,9 @@ public class TestMain {
 //        userDAO.save(user);
 //
 //        session.getTransaction().commit();
-        Session session = HibernateUtils.getSessionFactory().openSession();
-        User user = UserDAO.build(session).find(1L);
-        System.out.println("Done: "+user.getUsername());
+//        Session session = HibernateUtils.getSessionFactory().openSession();
+//        User user = UserDAO.build(session).find(1L);
+ //       System.out.println("Done: "+user.getUsername());
+        System.out.println("Done: ");
     }
 }

@@ -5,6 +5,7 @@ import org.hibernate.boot.Metadata;
 import org.hibernate.boot.MetadataSources;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.service.ServiceRegistry;
+import org.springframework.stereotype.Component;
 
 /**
  * Spring-Boot-Hibernate
@@ -14,6 +15,7 @@ import org.hibernate.service.ServiceRegistry;
  * @created_by Hieupv
  * @since 10/08/2020
  */
+@Component
 public class HibernateUtils {
     private static final SessionFactory sessionFactory = buildSessionFactory();
 
@@ -40,7 +42,7 @@ public class HibernateUtils {
         return sessionFactory;
     }
 
-    public static void shutdown() {
+    public void shutdown() {
         // Giải phóng cache và Connection Pools.
         getSessionFactory().close();
     }

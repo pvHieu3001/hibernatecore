@@ -42,7 +42,7 @@ public class XmlConfiguration extends WsConfigurerAdapter {
 
     @Bean
     public XsdSchema typeRoomSchema() {
-        return new SimpleXsdSchema(new ClassPathResource("user.xsd"));
+        return new SimpleXsdSchema(new ClassPathResource("xsds/user.xsd"));
     }
 
     @Bean
