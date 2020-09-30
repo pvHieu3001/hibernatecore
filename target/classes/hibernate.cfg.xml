@@ -13,7 +13,7 @@
 
         <!-- JDBC Database connection settings -->
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://192.90.20.85:3306/hotelbooking?useSSL=false</property>
+        <property name="connection.url">jdbc:mysql://192.90.90.75:3306/hotelbooking?useSSL=false</property>
         <property name="connection.username">root</property>
         <property name="connection.password">1234</property>
         <property name="connection.pool_size">1</property>

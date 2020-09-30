@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="@192.90.20.85">
+<dataSource name="@192.90.51.167">
   <database-model serializer="dbm" dbms="MARIADB" family-id="MARIADB" format-version="4.19">
     <root id="1">
       <ServerVersion>10.5.5</ServerVersion>

@@ -1,6 +1,4 @@
 
-U	java:S106""9Replace this use of System.out or System.err by a logger.(¼”©Ã8è½º½.
 G
-java:S1181 "%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8è½º½.
-\
-java:S1118":Add a private constructor to hide the implicit public one.(ôš—Ëÿÿÿÿÿ8è½º½.
+java:S1181""%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8è½º½.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¼”©Ã8è½º½.

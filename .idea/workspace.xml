@@ -23,47 +23,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9391f33-e8ac-4a8c-8633-44bc654d3904" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/AddUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/AddUserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/DeleteUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/DeleteUserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindAllUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindAllUserResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindUserByIdRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/FindUserByIdResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ServiceStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UpdateUserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UpdateUserResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/94db102b-6a87-444a-811f-eb817393cda9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/94db102b-6a87-444a-811f-eb817393cda9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hibernatecore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hibernatecore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2481da461e77980c54f4f36a624d0c6631e52d10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/2481da461e77980c54f4f36a624d0c6631e52d10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d7e090f8c367729883ff637503ffe172424edd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89ed2a9c5acd8d0e802542bbc1df9c80b39f852d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89ed2a9c5acd8d0e802542bbc1df9c80b39f852d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/config/XmlConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/AbstractCrudDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/dao/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/endpoints/UserEndPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/HibernateUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smartosc/training/utils/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/user.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/xsds/user.xsd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Saitama-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Saitama-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Saitama-1.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/Saitama-1.0.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JAXB/episode_xjc.xjb" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/ObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/ObjectFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/UserRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/UserResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/config/XmlConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/config/XmlConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/AbstractCrudDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/dao/UserDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/endpoints/UserEndPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/endpoints/UserEndPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smartosc/training/utils/HibernateUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/user.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/META-INF/JAXB/episode_xjc.xjb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/ObjectFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/UserResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/jaxb/com/example/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +84,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -202,6 +174,12 @@
       <workItem from="1597719816580" duration="2363000" />
       <workItem from="1597729712652" duration="4367000" />
       <workItem from="1597804424363" duration="17051000" />
+      <workItem from="1597994508924" duration="55000" />
+      <workItem from="1598503217645" duration="1216000" />
+      <workItem from="1598584841715" duration="929000" />
+      <workItem from="1598586603319" duration="2120000" />
+      <workItem from="1598930525805" duration="653000" />
+      <workItem from="1599210948688" duration="418000" />
     </task>
     <servers />
   </component>
@@ -224,55 +202,73 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="325" width="1046" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597634444373">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state x="570" y="134" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598930549719">
+      <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="828" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597052584175" />
+    <state x="570" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1020@0.27.1920.1020" timestamp="1598930549719" />
+    <state x="595" y="137" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/35.27.1885.1053@35.27.1885.1053" timestamp="1598588762677" />
     <state x="572" y="325" width="1046" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1871.1053@49.27.1871.1053" timestamp="1597634444373" />
-    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597732793536">
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597994562731">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597041570210" />
-    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1597732793536" />
-    <state width="1825" height="386" key="GridCell.Tab.0.bottom" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state x="770" y="306" width="424" height="484" key="FileChooserDialogImpl/49.27.1871.1053@49.27.1871.1053" timestamp="1597994562731" />
+    <state width="1839" height="386" key="GridCell.Tab.0.bottom" timestamp="1599211366506">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
+    <state width="1839" height="386" key="GridCell.Tab.0.bottom/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366506" />
+    <state width="1839" height="386" key="GridCell.Tab.0.bottom/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096684" />
     <state width="1825" height="386" key="GridCell.Tab.0.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.0.center" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.0.center" timestamp="1599211366504">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
+    <state width="1839" height="386" key="GridCell.Tab.0.center/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366504" />
+    <state width="1839" height="386" key="GridCell.Tab.0.center/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096684" />
     <state width="1825" height="386" key="GridCell.Tab.0.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.0.left" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.0.left" timestamp="1599211366503">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942717" />
+    <state width="1839" height="386" key="GridCell.Tab.0.left/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366503" />
+    <state width="1839" height="386" key="GridCell.Tab.0.left/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096684" />
     <state width="1825" height="386" key="GridCell.Tab.0.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.0.right" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.0.right" timestamp="1599211366504">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597057942718" />
+    <state width="1839" height="386" key="GridCell.Tab.0.right/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366504" />
+    <state width="1839" height="386" key="GridCell.Tab.0.right/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096684" />
     <state width="1825" height="386" key="GridCell.Tab.0.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.1.bottom" timestamp="1597829508443">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.1.bottom" timestamp="1599211366508">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
+    <state width="1839" height="386" key="GridCell.Tab.1.bottom/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366508" />
+    <state width="1839" height="386" key="GridCell.Tab.1.bottom/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096686" />
     <state width="1825" height="386" key="GridCell.Tab.1.bottom/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508443" />
-    <state width="1825" height="386" key="GridCell.Tab.1.center" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.1.center" timestamp="1599211366507">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
+    <state width="1839" height="386" key="GridCell.Tab.1.center/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366507" />
+    <state width="1839" height="386" key="GridCell.Tab.1.center/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096685" />
     <state width="1825" height="386" key="GridCell.Tab.1.center/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.1.left" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.1.left" timestamp="1599211366506">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
+    <state width="1839" height="386" key="GridCell.Tab.1.left/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366506" />
+    <state width="1839" height="386" key="GridCell.Tab.1.left/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096685" />
     <state width="1825" height="386" key="GridCell.Tab.1.left/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
-    <state width="1825" height="386" key="GridCell.Tab.1.right" timestamp="1597829508442">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state width="1839" height="386" key="GridCell.Tab.1.right" timestamp="1599211366508">
+      <screen x="0" y="27" width="1885" height="1053" />
     </state>
     <state width="1876" height="277" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597051141470" />
+    <state width="1839" height="386" key="GridCell.Tab.1.right/0.27.1885.1053@0.27.1885.1053" timestamp="1599211366508" />
+    <state width="1839" height="386" key="GridCell.Tab.1.right/35.27.1885.1053@35.27.1885.1053" timestamp="1598589096686" />
     <state width="1825" height="386" key="GridCell.Tab.1.right/49.27.1871.1053@49.27.1871.1053" timestamp="1597829508442" />
     <state width="1825" height="344" key="GridCell.Tab.2.bottom" timestamp="1597829480432">
       <screen x="49" y="27" width="1871" height="1053" />
@@ -294,10 +290,11 @@
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/49.27.1871.1053@49.27.1871.1053" timestamp="1597634586695" />
-    <state x="478" y="124" width="1024" height="845" key="SettingsEditor" timestamp="1597732805121">
-      <screen x="49" y="27" width="1871" height="1053" />
+    <state x="467" y="124" width="1024" height="845" key="SettingsEditor" timestamp="1598586592092">
+      <screen x="35" y="27" width="1885" height="1053" />
     </state>
     <state x="440" y="96" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597041602631" />
+    <state x="467" y="124" key="SettingsEditor/35.27.1885.1053@35.27.1885.1053" timestamp="1598586592092" />
     <state x="478" y="124" width="1024" height="845" key="SettingsEditor/49.27.1871.1053@49.27.1871.1053" timestamp="1597732805121" />
     <state x="869" y="424" width="377" height="259" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1597645517157">
       <screen x="49" y="27" width="1871" height="1053" />
@@ -312,6 +309,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597121221660" />
+    <state x="286" y="154" width="1372" height="796" key="new project wizard" timestamp="1598589085066">
+      <screen x="35" y="27" width="1885" height="1053" />
+    </state>
+    <state x="286" y="154" width="1372" height="796" key="new project wizard/35.27.1885.1053@35.27.1885.1053" timestamp="1598589085066" />
     <state x="709" y="466" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1597308683952">
       <screen x="49" y="27" width="1871" height="1053" />
     </state>
